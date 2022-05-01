@@ -1,4 +1,4 @@
-# 18 NoSQL: Social Network API
+# 18 NoSQL: Social Network API 
 
 ## Summary
 
@@ -15,6 +15,7 @@ SO THAT my website can handle large amounts of unstructured data
 ## Installation 
 
  npm init
+
  npm install
 
 ## Usage
@@ -25,3 +26,6 @@ With nodemon
 
  npm run watch
 
+## Questions 
+
+Email me at wy.smith722@gmail.com 

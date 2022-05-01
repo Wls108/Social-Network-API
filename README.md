@@ -26,6 +26,10 @@ With nodemon
 
  npm run watch
 
+## Video of usage
+
+https://drive.google.com/file/d/1hjII9M01mVYZ_pocKGfbI0Z1YjbkErs4/view
+
 ## Questions 
 
 Email me at wy.smith722@gmail.com 
